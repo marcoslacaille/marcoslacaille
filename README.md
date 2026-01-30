@@ -1,7 +1,7 @@
  Olá, eu sou o Marcos! 
 
 
- Sou estudante de Sistemas de Informação na Universidade Federal do Estado do Rio de Janeiro (UNIRIO)  e estou construindo minha carreira como      desenvolvedor.
+ Sou estudante de Sistemas de Informação na Universidade Federal do Estado do Rio de Janeiro (UNIRIO)  e estou construindo minha carreira.
 
  Atualmente, estou em busca da minha primeira oportunidade de estágio, com foco principal em <strong>Desenvolvimento Backend (especialmente com Java/Spring)</strong> e <strong>Engenharia de Dados</strong>.
 
